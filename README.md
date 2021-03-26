@@ -4,5 +4,5 @@ https://ilushling.github.io/PathFinderLegacy/
 - A* Pathfinding Visualization
 
 
-# New versino
+# New version
 https://ilushling.github.io/ProstoEngine/
